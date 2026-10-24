@@ -1,0 +1,6 @@
+{
+  "name": "Somos Uno - Sistema de Atención y PQRS",
+  "description": "Sistema operativo para la caracterización, gestión multicanal de PQRS, seguimiento con áreas sociales, protocolos empáticos e indicadores ISB de la Corporación Social Somos Uno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
